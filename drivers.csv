@@ -1,0 +1,5 @@
+id,name,type,status,x,y,earnings
+101,Driver1,0,0,5,6,530.00
+102,Driver2,1,0,10,12,120.50
+104,Driver4,1,1,0,1,85.00
+105,Driver5,0,0,15,20,1200.00
